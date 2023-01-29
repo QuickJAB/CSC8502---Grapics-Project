@@ -1,0 +1,15 @@
+﻿  Renderer.cpp
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\NCLGL\Mesh.h(99,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(139,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(147,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(155,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(156,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(157,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(158,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(159,90): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(165,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(295,88): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(308,103): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(313,89): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\Blank Project\Renderer.cpp(318,88): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  BlankProject.vcxproj -> C:\Users\b9001336\Development\Coursework\CSC8502 2021\CSC8502 2021\x64\Debug\Blank Project.exe
